@@ -6,3 +6,8 @@ This project aims to build a machine learning model to detect fraudulent credit 
 ## Dataset
 The dataset used for this project contains information about credit card transactions, including features such as transaction amount, merchant information, transaction date/time, and more. It includes both fraudulent and legitimate transactions for training and evaluation.
 
+## Algorithms Explored
+The following machine learning algorithms are experimented with to classify transactions:
+- Logistic Regression
+- Decision Trees
+- Random Forests
