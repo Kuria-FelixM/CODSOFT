@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Model
+# Credit-Card-Fraud-Detection-Model
 
 ## Overview
 This project aims to build a machine learning model to detect fraudulent credit card transactions using a dataset containing transaction information. The goal is to classify transactions as either fraudulent or legitimate based on various features associated with each transaction.
